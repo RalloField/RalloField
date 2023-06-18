@@ -14,7 +14,7 @@ The taste for more backend languages and frameworks has been acquired and I'm al
 
 - ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 
-Project for Circular Projects. Letting enthusiasts of circular economy connect by adding their projects and companies. 
+Repo for Circular Projects. Letting enthusiasts of circular economy connect by adding their projects and companies. 
 
 #### 🎮 Playing around with (learning) ...
 
