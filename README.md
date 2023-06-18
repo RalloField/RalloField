@@ -3,6 +3,7 @@
 Hi, my name is junior backend developer and I'm a Raoul.
 Wait,... No no, the other way around. 
 My name is Raoul and I'm a junior backend developer.
+
 That's more like it!
 
 I started my journey in IT with BeCode with the aspiration to become a web developer and learn all the technical skills one would need.
