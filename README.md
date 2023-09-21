@@ -26,14 +26,14 @@ The taste for more backend languages and frameworks has been acquired and I'm al
 
 #### 🛠 I’m currently working on ...
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-Repo for Circular Projects. Letting enthusiasts of circular economy connect by adding their projects and companies. 
+API's all the way! 
 
 #### 🎮 Playing around with (learning) ...
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### 👨‍💻 These are my projects ...
 
